@@ -6,7 +6,7 @@
 
 **Turma** SI1nB
 
-**Integrantes:** Daniel Schirmer, Fernando Soares, Victor Heringuer
+**Integrantes:** Daniel Schirmer, Fernando Soares, Victor Heringer
 
 
 Descrição do cenário: 
