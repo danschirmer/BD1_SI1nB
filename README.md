@@ -1,11 +1,8 @@
 **Universidade Vila Velha - UVV**
 
 **Disciplina:** Banco de Dados 1
-
 **Professor:** Marcello Novaes de Amorim
-
 **Turma** SI1nB
-
 **Integrantes:** Daniel Schirmer, Fernando Soares, Victor Heringer
 
 
@@ -17,10 +14,12 @@ Sabe-se que cada uma das filiais do curso possui um corpo de funcionários espec
  
 Os professores são remunerados por hora/aula ministrada, e os funcionários administrativos possuem salário fixo.
 
-Cada filial pode ter diversas turmas, no entanto, um professor ministra uma única disciplina em uma unica e exlusiva filial.
+Cada filial pode ter diversas turmas. Cada turma tem diversas disciplinas. Cada disciplina pode ter diversos professores, no entanto um professor ministra apenas uma única disciplina em uma unica e exlusiva filial.
 
-Os alunos matriculados pagam mensalidade, no entanto, alguns possuem desconto.
+Os alunos matriculados pagam mensalidade, no entanto, alguns possuem desconto, inclusive de 100%.
 
-Durante o ano são realizados algumas avaliações (simulados) para medir o rendimento dos alunos.
- 
+Durante o ano são realizados algumas simulados (avaliações) para medir o rendimento dos alunos.
+
+Cada simulado possui diversas questões de diversas disciplinas.
+
 Cada uma das filiais emite, periodicamente, relatórios sobre o rendimento de seus alunos e sobre sua gestão financeira.
