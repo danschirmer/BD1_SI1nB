@@ -21,7 +21,7 @@ Cada filial pode ter diversas turmas. Cada turma tem diversas disciplinas. Cada 
 
 Os alunos matriculados pagam mensalidade, no entanto, alguns possuem desconto, inclusive de 100%.
 
-Durante o ano são realizados algumas simulados (avaliações) para medir o rendimento dos alunos.
+Durante o ano são realizados alguns simulados (avaliações) para medir o rendimento dos alunos.
 
 Cada simulado possui diversas questões de diversas disciplinas.
 
