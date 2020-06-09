@@ -11,7 +11,7 @@
 
 Descrição do cenário: 
 
-Um curso preparatório para a prova do ENEM necessita de um modelo de banco de dados que sirva tanto para o seu controle de gestão interna quanto para medir o rendimento de seus alunos.
+Um Curso Preparatório para a prova do ENEM necessita de um modelo de banco de dados que sirva tanto para o seu controle de gestão interna quanto para medir o rendimento de seus alunos.
 
 Sabe-se que cada uma das filiais do curso possui um corpo de funcionários administrativos responsaveis uníca e exclusivamente pela sua filial.
 
