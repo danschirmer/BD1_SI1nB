@@ -13,11 +13,13 @@ Descrição do cenário:
 
 Um curso preparatório para a prova do ENEM necessita de um modelo de banco de dados que sirva tanto para o seu controle de gestão interna quanto para medir o rendimento de seus alunos.
 
-Sabe-se que cada uma das filiais do curso possui um corpo de funcionários especializados, alguns deles são responsáveis pela administração e outros por ministrar as aulas aos alunos.
- 
-Os professores são remunerados por hora/aula ministrada, e os funcionários administrativos possuem salário fixo.
+Sabe-se que cada uma das filiais do curso possui um corpo de funcionários administrativos responsaveis uníca e exclusivamente pela sua filial.
 
-Cada filial pode ter diversas turmas. Cada turma tem diversas disciplinas. Cada disciplina pode ter diversos professores, no entanto um professor ministra apenas uma única disciplina em uma unica e exlusiva filial.
+Cada professor é responsavel por uma disciplina, no entanto, pode ser ministrada em qualquer filial do Curso Preparatório.
+
+Cada filial pode ter diversas turmas com diversas disciplinas. 
+
+Os professores são remunerados por hora/aula ministrada, e os funcionários administrativos possuem salário fixo.
 
 Os alunos matriculados pagam mensalidade, no entanto, alguns possuem desconto, inclusive de 100%.
 
