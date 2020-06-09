@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Pre-enem" id="B258FEB1-A049-FEAB-BBA8-76F001A9F347" version="3.5">
+<createdBy>Dansc</createdBy>
+<createdTime>2020-06-08 23:24:50 UTC</createdTime>
+<ownerDesignName>Pre-enem</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B258FEB1-A049-FEAB-BBA8-76F001A9F347</designId>
+</OSDM_Design>
